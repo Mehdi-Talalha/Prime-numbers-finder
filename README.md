@@ -1,2 +1,9 @@
-# Prime-numbers-finder
-This a python project that check if a number is prime or not 
+<div align="center">
+
+# Prime numbers finder
+
+This is a simple python project that check if the number inputed from the user is prime or not.
+
+![alt text](image.png)
+
+<div>
